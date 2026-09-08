@@ -1,4 +1,4 @@
-// URL del repositorio: https://github.com/frandemabit/bmi.git
+// URL del repositorio: github.com/frandemabit/programacion-1
 #include <stdio.h>
 
 #define TAM 5
